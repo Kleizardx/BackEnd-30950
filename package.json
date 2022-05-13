@@ -1,11 +1,20 @@
 {
   "name": "backend-30950",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "class.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kleizardx/BackEnd-30950.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kleizardx/BackEnd-30950/issues"
+  },
+  "homepage": "https://github.com/Kleizardx/BackEnd-30950#readme",
+  "description": ""
 }
